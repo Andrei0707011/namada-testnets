@@ -1,0 +1,12 @@
+[validator.ONLYOne]
+consensus_public_key = "00d3331e8ed13da0dc3374acebbe4d297466262a5168224dd3c5fc5086dc12024f"
+eth_cold_key = "0102c5ac8c197fc10a354686e812b663dc82d83b4806fdd993ad43e11d8c6490fd4b"
+eth_hot_key = "0102562a6ff69077d66a9ccadbc4051dddb700c8d8f3506918a3eeb0356aeae354a1"
+account_public_key = "008f25572a682ded90fc4afda2f3206e9e8f6a746c478dcebd3ea105a239f5f7a2"
+protocol_public_key = "006681e5c42914a4aba872ad7b1c597b7638fd520bf776181cfc7408dd75ea31c3"
+dkg_public_key = "60000000d42c441a03f94f427a9812a37d318ec7b4dcdac355d51e3c72c6802658f2eab7be8916aa98ce3a50705ebebcf1142909dc6d40bbb10a88ecdc51c36882700ca49c66ac35fdc018aef9db2b1676afcd8a7566c24ebb0895b255172600702a338e"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.144.2:26656"
+tendermint_node_key = "002dedc78ce3feffa01fdc74a247d344373fedb45dc1b8e0077ebdf22852618c33"
+Pre-genesis TOML written to /root/.local/share/namada/pre-genesis/ONLYOne/validator.toml
